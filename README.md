@@ -32,8 +32,6 @@ Here is a simple dark sensor circuit that is useful to switch ON and OFF any app
 ### Working 
 During the daytime when there is a light, the LDR has very low resistance and all voltage coming through R1 dropped with the ground. This makes the voltage at the base of the transistor very low and it will not switch ON the transistor. Because the transistor is OFF, the current will not flow through the transistor. As a result, LED will not turn ON.At night when there is no light, the LDR has high resistance and very less power dropped with the ground. This makes the voltage at the base of the transistor high to turn the transistor ON. Because the transistor is turned ON, current flows through the transistor. It flows from the positive battery terminal, through R2, the LED, and the transistor down to the negative battery terminal. As a result, the LED turns ON.The same circuit can be used for a variety of purposes. Check out the Automatic Street Light Control System using LDR application. Instead of LED, bulbs are used using a relay.
 
-
-
 # Circuit Diagram
 
 ![2asc](https://github.com/anishkumar-Embedded/PCB-Design--Automatic-night-lamp/assets/71547910/58ddd20b-a881-4f29-86ef-70697d50eb02)
@@ -41,14 +39,10 @@ During the daytime when there is a light, the LDR has very low resistance and al
 # Output
 
 ### Schematic diagram
-
-
+![file_2024-03-21_02 43 40](https://github.com/Loveboysubi/PCB-Design--Automatic-night-lamp/assets/138970879/def6a490-5250-402f-8ef6-6fc0a3ae57b2)
 
 ### Layout diagram
-
-
-
-
+![file_2024-03-21_03 44 14](https://github.com/Loveboysubi/PCB-Design--Automatic-night-lamp/assets/138970879/83f5fbf0-7be4-4601-93d7-0686398dec06)
 
 # Result
 Thus the automatic night lamp circuit was designed using proteus software.
